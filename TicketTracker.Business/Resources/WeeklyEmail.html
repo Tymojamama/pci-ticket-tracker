@@ -1,0 +1,191 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="utf-8" />
+	<title></title>
+	<style type="text/css">
+		* {
+			font-size: 14px;
+			font-family: "Calibri", sans-serif;
+		}
+
+		#greeting p {
+			font-size: 20px;
+			color: #0e2e47;
+		}
+
+        .content-header {
+			font-size: 22px;
+			color: #0e2e47;
+            margin: 3px 0;
+            max-width: 100%;
+        }
+
+        .content-sub-header {
+			font-size: 20px;
+			color: #0e2e47;
+            margin: 3px 0;
+            max-width: 100%;
+        }
+
+		#regarding-request {
+			font-size: 18px;
+			color: #da383c;
+		}
+
+		#close {
+
+		}
+
+        .grey-bar {
+            height: 2px;
+            width: 100%;
+            background-color: #a3a8aa;
+        }
+
+        #ticket-summary {
+            margin-top: 10px;
+            margin-bottom: 10px;
+            padding-top: 5px;
+            padding-bottom: 10px;
+            max-width: 100%;
+        }
+
+		#ticket-summary table {
+			width: 100%;
+            max-width: 100%;
+		}
+
+		#ticket-summary th {
+			background-color: #a3a8aa;
+		}
+
+		#ticket-summary table, #ticket-summary td, #ticket-summary th {
+			border-collapse: collapse;
+			border: 1px solid black;
+			text-align: left;
+		}
+	</style>
+</head>
+<body>
+	<div>
+		<div id="greeting">
+			<p>{lblFirstName}</p>
+		</div>
+		<p>
+			I hope that you are having a wonderful day!
+		</p>
+		<p id="regarding-request">
+            This is your weekly ticket update for the following ticket: {lblTicketSubject}
+		</p>
+        <div id="ticket-summary">
+            <div class="content-header">
+                Ticket Summary
+            </div>
+            <div class="grey-bar"></div>
+            <p>
+                This is your weekly ticket update! You are receiving this email because you have an open IT ticket that has yet to be
+                completed. You will receive this email every week until the ticket is closed in order to show you what ticket-related tasks have
+                recently been created and to show you what we've been working on. These updates are automatically generated
+                in order to promote transparency and ensure that no one gets left behind! This gives you an opportunity to reach out
+                if something doesn't seem quite right.
+            </p>
+            <p>
+                Regarding this ticket, the requested work is being completed by {lblTicketOwner}, and approximately 
+                {lblTicketHours} hours and {lblTicketMinutes} minutes of work have been completed so far.
+            </p>
+            <div id="tasks">
+                <div class="content-sub-header">
+                    Recent Tasks
+                </div>
+                <p id="no-tasks" style="display: none;">
+                    No tasks have been completed or created in the past week.
+                </p>
+                <div id="recent-tasks-completed">
+                    <div class="task-complete-summary" style="margin-bottom: 15px">
+                        <p>
+                            The following tasks have been completed for the ticket in the past week:
+                        </p>
+                        <table class="task-table-completed">
+                            <tr>
+                                <th>
+                                    Status
+                                </th>
+                                <th>
+                                    Subject
+                                </th>
+                                <th>
+                                    Completed
+                                </th>
+                            </tr>
+                            {trTaskCompleteSummary}
+                        </table>
+                    </div>
+                </div>
+                <div id="recent-tasks-created">
+                    <div class="task-created-summary" style="margin-bottom: 15px">
+                        <p>
+                            The following tasks have been created for the ticket in the past week:
+                        </p>
+                        <table class="task-table-created">
+                            <tr>
+                                <th>
+                                    Status
+                                </th>
+                                <th>
+                                    Subject
+                                </th>
+                                <th>
+                                    Created
+                                </th>
+                            </tr>
+                            {trTaskCreatedSummary}
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div id="time-entries">
+                <div class="content-sub-header">
+                    Recent Time Entries
+                </div>
+                <p id="no-time-entries" style="display: none;">
+                    No time entries have been entered in the past week.
+                </p>
+                <div id="recent-time-entries">
+                    <div class="time-summary">
+                        <p>
+                            Time entered against ticket in the past week:
+                        </p>
+                        <table class="time-table">
+                            <tr>
+                                <th>
+                                    Subject
+                                </th>
+                                <th>
+                                    Start Time
+                                </th>
+                                <th>
+                                    Duration (minutes)
+                                </th>
+                            </tr>
+                            {trTicketSummary}
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <p>
+            We aim to balance the interests of all stakeholders and ensure that everyone is satisfied with their service quality.
+            Please let us know how we're doing, and feel free to reach out if you have any questions regarding this ticket!
+        </p>
+        <div id="close">
+            <p>Regards,</p>
+            <p>
+                Information Technology <br />
+                Pension Consultants, Inc.
+            </p>
+        </div>
+	</div>
+</body>
+</html>

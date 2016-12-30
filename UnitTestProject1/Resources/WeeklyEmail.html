@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="utf-8" />
+	<title></title>
+	<style type="text/css">
+		* {
+			font-size: 14px;
+			font-family: "Calibri", sans-serif;
+		}
+
+		#greeting p {
+			font-size: 20px;
+			color: #0e2e47;
+		}
+
+		#regarding-request {
+			font-size: 18px;
+			color: #da383c;
+		}
+
+		#close {
+
+		}
+
+		#TimeSummary table {
+			width: 100%;
+		}
+
+		#TimeSummary th {
+			background-color: #a3a8aa;
+		}
+
+		#TimeSummary table, #TimeSummary td, #TimeSummary th {
+			border-collapse: collapse;
+			border: 1px solid black;
+			text-align: left;
+		}
+	</style>
+</head>
+<body>
+	<div>
+		<div id="greeting">
+			<p>{lblFirstName}</p>
+		</div>
+		<p>
+			I hope that you are having a wonderful day!
+		</p>
+		<p id="regarding-request">
+			This email is regarding the following ticket: {lblTicketSubject}
+		</p>
+		<p>
+			This is your weekly ticket update.
+			The requested work is being completed by {lblTicketOwner}. Approximately {lblTicketHours} hours and {lblTicketMinutes} minutes have been completed so far.
+		</p>
+		<div id="TimeSummary">
+			<p>
+				The follow tasks have been created for the ticket in the past week:
+			</p>
+			<table>
+				<tr>
+					<th>
+						Status
+					</th>
+					<th>
+						Subject
+					</th>
+					<th>
+						Created
+					</th>
+				</tr>
+				{trTaskSummary}
+			</table>
+		</div>
+		<div id="TimeSummary">
+			<p>
+				Time entered against ticket in the past week:
+			</p>
+			<table>
+				<tr>
+					<th>
+						Subject
+					</th>
+					<th>
+						Start Time
+					</th>
+					<th>
+						Duration (minutes)
+					</th>
+				</tr>
+				{trTicketSummary}
+			</table>
+		</div>
+		<p>
+			We aim to balance the interests of all stakeholders and ensure that everyone is satisfied with their service quality.
+			Please let us know how we did, and feel free to reach out if you have any questions regarding this ticket!
+		</p>
+		<div id="close">
+			<p>Regards,</p>
+			<p>
+				Information Technology <br />
+				Pension Consultants, Inc.
+			</p>
+		</div>
+	</div>
+</body>
+</html>

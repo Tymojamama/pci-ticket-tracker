@@ -1,0 +1,4 @@
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Services\bin\Release\TicketTracker.Services.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Services\bin\Release\TicketTracker.Services.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Services\obj\Release\TicketTracker.Services.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Services\obj\Release\TicketTracker.Services.pdb

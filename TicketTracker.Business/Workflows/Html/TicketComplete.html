@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style type="text/css">
+        {txtStyle}
+    </style>
+</head>
+<body>
+    <div>
+        <div id="greeting">
+            <p>{lblFirstName}</p>
+        </div>
+        <p>
+            I hope that you are having a wonderful day!
+        </p>
+        <p id="regarding-request">
+            This email is regarding the following request: {lblTicketSubject}
+        </p>
+        <p>
+            Your ticket has been marked complete and is now closed.
+            The requested work was completed by {lblTicketOwner} and took approximately {lblTicketHours} hours and {lblTicketMinutes} minutes to complete.
+        </p>
+        <p>
+            <b>
+                Please take a moment to complete our ticket completion survey <a href="http://192.168.0.12:9000/Survey?id=5B39D62E-F929-4156-8A84-145B9BAF056D&regarding={txtRegarding}">here</a>!
+            </b>
+        </p>
+        <div id="TimeSummary">
+            <p>
+                Time entered against ticket:
+            </p>
+            <table>
+                <tr>
+                    <th>
+                        Subject
+                    </th>
+                    <th>
+                        Start Time
+                    </th>
+                    <th>
+                        Duration (minutes)
+                    </th>
+                </tr>
+                {trSummary}
+            </table>
+        </div>
+        <p>
+            We aim to balance the interests of all stakeholders and ensure that everyone is satisfied with their service quality.
+            Please let us know how we did, and feel free to reach out if you have any questions regarding this ticket!
+        </p>
+        <div id="close">
+            <p>Regards,</p>
+            <p>
+                Information Technology <br />
+                Pension Consultants, Inc.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

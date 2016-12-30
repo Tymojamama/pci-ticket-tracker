@@ -1,0 +1,32 @@
+* {
+    font-size: 14px;
+    font-family: "Calibri", sans-serif;
+}
+
+#greeting p {
+    font-size: 20px;
+    color: #0e2e47;
+}
+
+#regarding-request {
+    font-size: 18px;
+    color: #da383c;
+}
+
+#close {
+
+}
+
+#TimeSummary table {
+    width: 100%;
+}
+
+#TimeSummary th {
+    background-color: #a3a8aa;
+}
+        
+#TimeSummary table, #TimeSummary td, #TimeSummary th {
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: left;
+}

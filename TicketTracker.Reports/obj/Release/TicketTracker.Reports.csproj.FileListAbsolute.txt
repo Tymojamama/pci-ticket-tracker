@@ -1,0 +1,10 @@
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Reports\bin\TicketTrackerEmailSender.dll.config
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Reports\bin\TicketTrackerEmailSender.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Reports\bin\TicketTrackerEmailSender.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Reports\bin\TicketTracker.Data.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Reports\bin\TicketTracker.Services.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Reports\bin\TicketTracker.Data.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Reports\bin\TicketTracker.Services.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Reports\obj\Release\TicketTracker.Reports.csprojResolveAssemblyReference.cache
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Reports\obj\Release\TicketTrackerEmailSender.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Reports\obj\Release\TicketTrackerEmailSender.pdb

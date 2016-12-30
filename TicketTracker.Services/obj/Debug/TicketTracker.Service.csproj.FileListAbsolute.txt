@@ -1,0 +1,5 @@
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Services\bin\Debug\TicketTracker.Services.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Services\bin\Debug\TicketTracker.Services.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Services\obj\Debug\TicketTracker.Services.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Services\obj\Debug\TicketTracker.Services.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Services\obj\Debug\TicketTracker.Service.csprojResolveAssemblyReference.cache

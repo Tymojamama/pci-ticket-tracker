@@ -1,0 +1,19 @@
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\bin\Debug\WindowsService1.exe.manifest
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\bin\Debug\WindowsService1.application
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\obj\Debug\TicketTracker.WeeklyEmailService.csprojResolveAssemblyReference.cache
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\obj\Debug\TicketTracker.WeeklyEmailService.ProjectInstaller.resources
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\obj\Debug\TicketTracker.WeeklyEmailService.csproj.GenerateResource.Cache
+\\PC03\Operations\2.  operations team\IT\TicketTracker Service\WeeklyEmailService.exe.config
+\\PC03\Operations\2.  operations team\IT\TicketTracker Service\WeeklyEmailService.exe.manifest
+\\PC03\Operations\2.  operations team\IT\TicketTracker Service\WeeklyEmailService.application
+\\PC03\Operations\2.  operations team\IT\TicketTracker Service\WeeklyEmailService.exe
+\\PC03\Operations\2.  operations team\IT\TicketTracker Service\WeeklyEmailService.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\obj\Debug\WeeklyEmailService.exe.manifest
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\obj\Debug\WeeklyEmailService.application
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\obj\Debug\WeeklyEmailService.exe
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\obj\Debug\WeeklyEmailService.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\obj\Debug\TicketTracker.WeeklyEmailService.WeeklyEmailService.resources
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\WindowsService1\obj\Debug\TicketTracker.WeeklyEmailService.Properties.Resources.resources

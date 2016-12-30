@@ -1,0 +1,23 @@
+c:\users\zallen\documents\visual studio 2013\Projects\TicketTracker\Ticket Tracker\bin\Debug\Ticket Tracker.exe.config
+c:\users\zallen\documents\visual studio 2013\Projects\TicketTracker\Ticket Tracker\bin\Debug\Ticket Tracker.exe
+c:\users\zallen\documents\visual studio 2013\Projects\TicketTracker\Ticket Tracker\bin\Debug\Ticket Tracker.pdb
+c:\users\zallen\documents\visual studio 2013\Projects\TicketTracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.csprojResolveAssemblyReference.cache
+c:\users\zallen\documents\visual studio 2013\Projects\TicketTracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.csproj.GenerateResource.Cache
+c:\users\zallen\documents\visual studio 2013\Projects\TicketTracker\Ticket Tracker\obj\Debug\Ticket Tracker.exe
+c:\users\zallen\documents\visual studio 2013\Projects\TicketTracker\Ticket Tracker\obj\Debug\Ticket Tracker.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\bin\Debug\Ticket Tracker.exe.manifest
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\bin\Debug\Ticket Tracker.application
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\obj\Debug\Ticket Tracker.exe.manifest
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\obj\Debug\Ticket Tracker.application
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\bin\Debug\TicketTracker.Business.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\bin\Debug\TicketTracker.Business.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.Forms.frmSplash.resources
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.Forms.frmTicket.resources
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.Forms.frmTicketTime.resources
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.Forms.frmMain.resources
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\obj\Debug\TicketTracker.Properties.Resources.resources
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\bin\Debug\PensionConsultants.Data.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\bin\Debug\PensionConsultants.Data.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\bin\Debug\DataIntegrationHub.Business.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\bin\Debug\DataIntegrationHub.Business.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.Forms.frmTask.resources

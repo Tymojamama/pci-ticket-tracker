@@ -1,0 +1,10 @@
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Business\bin\Debug\TicketTracker.Business.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Business\bin\Debug\TicketTracker.Business.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Business\obj\Debug\TicketTracker.Business.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Business\obj\Debug\TicketTracker.Business.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Business\bin\Debug\PensionConsultants.Data.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Business\bin\Debug\DataIntegrationHub.Business.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Business\bin\Debug\DataIntegrationHub.Business.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Business\bin\Debug\PensionConsultants.Data.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Business\obj\Debug\TicketTracker.Business.Properties.Resources.resources
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Business\obj\Debug\TicketTracker.Business.csproj.GenerateResource.Cache
