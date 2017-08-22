@@ -21,3 +21,6 @@ C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Track
 C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\bin\Debug\DataIntegrationHub.Business.dll
 C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\bin\Debug\DataIntegrationHub.Business.pdb
 C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.Forms.frmTask.resources
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\bin\Debug\Ticket Tracker.exe.config
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\Ticket Tracker.exe
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\Ticket Tracker.pdb
