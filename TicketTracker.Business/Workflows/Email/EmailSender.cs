@@ -49,13 +49,13 @@ namespace TicketTracker.Business.Workflows
         public EmailSender()
         {
             _smtpClient = new SmtpClient("smtp.office365.com");
-            _smtpClient.Credentials = new NetworkCredential("zallen@pension-consultants.com", "TomatoWork643%", "pension-consultants.com");
+            _smtpClient.Credentials = new NetworkCredential("tpoag@pension-consultants.com", "8771212Tdp@", "pension-consultants.com");
             _smtpClient.Port = 587;
             _smtpClient.EnableSsl = true;
 
             _mailMessage = new MailMessage();
-            _mailMessage.From = new MailAddress("zallen@pension-consultants.com");
-            ToRecipients.Add("zallen@pension-consultants.com");
+            _mailMessage.From = new MailAddress("tpoag@pension-consultants.com");
+            ToRecipients.Add("tpoag@pension-consultants.com");
             _mailMessage.IsBodyHtml = true;
         }
 

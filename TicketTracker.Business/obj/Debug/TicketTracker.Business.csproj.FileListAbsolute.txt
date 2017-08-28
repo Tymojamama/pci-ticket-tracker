@@ -8,3 +8,14 @@ C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracke
 C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Business\bin\Debug\PensionConsultants.Data.dll
 C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Business\obj\Debug\TicketTracker.Business.Properties.Resources.resources
 C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\TicketTracker.Business\obj\Debug\TicketTracker.Business.csproj.GenerateResource.Cache
+U:\PCI-Repos\pci-ticket-tracker\TicketTracker.Business\bin\Debug\TicketTracker.Business.dll
+U:\PCI-Repos\pci-ticket-tracker\TicketTracker.Business\bin\Debug\TicketTracker.Business.pdb
+U:\PCI-Repos\pci-ticket-tracker\TicketTracker.Business\bin\Debug\DataIntegrationHub.Business.dll
+U:\PCI-Repos\pci-ticket-tracker\TicketTracker.Business\bin\Debug\PensionConsultants.Data.dll
+U:\PCI-Repos\pci-ticket-tracker\TicketTracker.Business\bin\Debug\DataIntegrationHub.Business.pdb
+U:\PCI-Repos\pci-ticket-tracker\TicketTracker.Business\bin\Debug\PensionConsultants.Data.pdb
+U:\PCI-Repos\pci-ticket-tracker\TicketTracker.Business\obj\Debug\TicketTracker.Business.csprojResolveAssemblyReference.cache
+U:\PCI-Repos\pci-ticket-tracker\TicketTracker.Business\obj\Debug\TicketTracker.Business.Properties.Resources.resources
+U:\PCI-Repos\pci-ticket-tracker\TicketTracker.Business\obj\Debug\TicketTracker.Business.csproj.GenerateResource.Cache
+U:\PCI-Repos\pci-ticket-tracker\TicketTracker.Business\obj\Debug\TicketTracker.Business.dll
+U:\PCI-Repos\pci-ticket-tracker\TicketTracker.Business\obj\Debug\TicketTracker.Business.pdb

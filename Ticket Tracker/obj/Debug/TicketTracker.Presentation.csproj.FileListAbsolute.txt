@@ -24,3 +24,23 @@ C:\Users\zallen\Documents\Visual Studio 2013\Projects\TicketTracker\Ticket Track
 U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\bin\Debug\Ticket Tracker.exe.config
 U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\Ticket Tracker.exe
 U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\Ticket Tracker.pdb
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.csprojResolveAssemblyReference.cache
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.Forms.frmSplash.resources
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.Forms.frmTicket.resources
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.Forms.frmTask.resources
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.Forms.frmTicketTime.resources
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.Forms.frmMain.resources
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\TicketTracker.Properties.Resources.resources
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\TicketTracker.Presentation.csproj.GenerateResource.Cache
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\bin\Debug\Ticket Tracker.exe.manifest
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\bin\Debug\Ticket Tracker.application
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\bin\Debug\Ticket Tracker.exe
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\bin\Debug\Ticket Tracker.pdb
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\bin\Debug\DataIntegrationHub.Business.dll
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\bin\Debug\TicketTracker.Business.dll
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\bin\Debug\PensionConsultants.Data.dll
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\bin\Debug\TicketTracker.Business.pdb
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\bin\Debug\DataIntegrationHub.Business.pdb
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\bin\Debug\PensionConsultants.Data.pdb
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\Ticket Tracker.exe.manifest
+U:\PCI-Repos\pci-ticket-tracker\Ticket Tracker\obj\Debug\Ticket Tracker.application

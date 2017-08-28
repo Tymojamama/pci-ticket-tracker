@@ -52,7 +52,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>9CCC5F9FDB4AF0A8D9691B30FE6596568A0F09A2</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>9BFC30C600631AA966F4B6987D53D6C61E98F799</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestKeyFile>TicketTracker.Presentation_TemporaryKey.pfx</ManifestKeyFile>
@@ -61,13 +61,14 @@
     <GenerateManifests>true</GenerateManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>false</SignManifests>
+    <SignManifests>true</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>false</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>TicketTracker.Presentation_TemporaryKey.pfx</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DataIntegrationHub.Business, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
